@@ -11,7 +11,7 @@ public class Main {
 		
 		switch (c) {
 		case '+':
-			System.out.println(d+d2);
+			System.out.println(SimpleMath.add(d,d2));
 			break;
 
 		default:
